@@ -28,6 +28,6 @@ public class Least_Penalty {
         // Print the final amount with two decimal places
         System.out.printf("%.2f\n", bankAmounts.poll());
         // Close the scanner
-        sc.close();
+        
     }
 }
